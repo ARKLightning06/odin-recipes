@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght,MONO@0,300..800,1;1,300..800,1&family=Skranji:wght@400;700&display=swap');
+
+
+body#home-page {
+  background: black;
+  font-family: 'Skranji', 'Copperplate', Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.intro {
+    text-align: center;
+    font-size: xx-large;
+    margin: 100px;
+}
+
+.title {
+  padding: 20px;
+  border: 5px double lightblue;
+  margin: 40px;
+  font-size: 70px;
+  text-align: center;
+}
+
+.recipes-list {
+    font-size: x-large;
+    margin: auto;
+    margin-top: 100px;
+    width: 75%;
+}
+
+.recipe-item {
+    margin: 50px;
+}
+
+#odin-main {
+    display: block;
+    margin: auto;
+    border: 5px double lightblue;
+    width: 75%;
+    height: auto;
+}
+
+#odin-corner {
+    display: block;
+    float: right;
+    margin: 10px;
+}
